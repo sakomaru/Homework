@@ -15,4 +15,4 @@ GitHubは日本ではあまり馴染みがなく、その存在を知らない�
 
 青山学院大学らしさを少しでも取り入れたく、浴衣の色を緑色にした。本来、青山学院大学のイメージカラーといえば濃い緑色であるが、オリジナルのOctcatの色が黒いため、濃い緑色は映えないと思い、薄い緑色にした。
 
-![Octcat]()
+![Octcat](https://github.com/sakomaru/Homework/blob/master/GitHub.png?raw=true)
